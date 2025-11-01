@@ -1,4 +1,19 @@
+## 👋 Hi there, I'm Piko!
 
+🎓 I recently graduated with a Bachelor's degree in Informatics Engineering.  
+💡 My thesis focused on **vehicle detection and classification using YOLOv8**.  
+🚀 I'm passionate about **AI, Computer Vision, and Software Development**.  
+💻 I enjoy solving problems and creating projects that make an impact.  
+
+---
+
+### 🧠 What I’m Interested In
+- Deep Learning & Object Detection  
+- Web Development (PHP, Laravel, JavaScript)  
+- Computer Vision & Image Processing  
+- Building practical tools with Python  
+
+---
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pikoo.__) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vickoardiansyah86@gmail.com) 
 
