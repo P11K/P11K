@@ -30,7 +30,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=P11K&theme=onedark)](https://github.com/P11K/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=P11K)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
