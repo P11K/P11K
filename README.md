@@ -30,7 +30,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-[![](https://github-profile-trophy.vercel.app/?username=P11K&theme=darkhub&row=1&column=6)
+![](https://github-profile-trophy.vercel.app/?username=P11K&theme=darkhub&row=1&column=6)
 
 ---
 
