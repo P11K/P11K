@@ -23,9 +23,15 @@
 ---
 
 ## 📊 GitHub Stats
-![Piko's GitHub stats](https://github-readme-stats.vercel.app/api?username=P11K&show_icons=true&theme=calm)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=P11K&layout=compact&theme=calm)
+<!-- Primary stats (dengan fallback) -->
+![Piko's GitHub stats](https://github-readme-stats.vercel.app/api?username=P11K&show_icons=true&theme=calm&cache_seconds=3600)
+
+<!-- Backup dengan service berbeda -->
+![](https://github-profile-summary-cards.vercel.app/cards/profile-details?username=P11K&theme=calm)
+
+<!-- Top languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=P11K&layout=compact&theme=calm&cache_seconds=3600)
 
 ---
 
