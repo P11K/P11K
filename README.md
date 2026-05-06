@@ -24,9 +24,10 @@
 
 ## 📊 GitHub Stats
 
-![Piko's GitHub stats](https://github-readme-stats-git-master-p11k.vercel.app/api?username=P11K&show_icons=true&theme=calm)
+![](https://github-profile-summary-cards.vercel.app/cards/profile-details?username=P11K&theme=github_dark)
 
-![Top Languages](https://github-readme-stats-git-master-p11k.vercel.app/api/top-langs/?username=P11K&layout=compact&theme=calm)
+![](https://github-profile-summary-cards.vercel.app/cards/repos-per-language?username=P11K&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/cards/most-commit-language?username=P11K&theme=github_dark)
 
 ---
 
